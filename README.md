@@ -108,4 +108,4 @@ Simply enter the corresponding number for the action you want to perform. The `u
 
 ## Contributors
 
-Joshua Thomas (`joshuathomas22`).
+Joshua Thomas (`GameBoyCymru`).
